@@ -1,0 +1,234 @@
+[
+  {
+    "id": "grape-house",
+    "title": "Grape House",
+    "en": "GRAPE HOUSE",
+    "category": "visual",
+    "type": "Packaging design",
+    "bg": "#ede8df",
+    "className": "portrait-work",
+    "images": [
+      "grape-structure",
+      "grape-visual"
+    ],
+    "role": "Team project · Packaging design · Reinterpreting regional culture",
+    "description": "Grape House brings the architecture of Xinjiang's traditional grape-drying houses and grapevine ornament into contemporary fruit packaging. Its biodegradable corrugated structure balances protection, ventilation, and environmental considerations. A side opening and a pull-out arrangement echo the experience of picking grapes from a vine. Illustrated guidance helps consumers distinguish natural grape bloom from mould, reducing avoidable waste and supporting food safety.",
+    "extra": "Three representative Turpan grape varieties—Thompson Seedless, Flame Seedless, and Black Beauty—inform a pixel-based visual language. Die-cut information tags, envelopes, and cultural introduction cards extend the packaging into an experience of identification, interaction, and cultural storytelling.",
+    "award": "Silver Award, Packaging Design — 18th China Star Design Award; Excellence Award — 4th XJ-STAR Design Awards",
+    "note": "Team: Siya Wang, Aiping Zuo, and Hanqi Ou. Supervisor: Lei Yang.",
+    "authorship": "Team project",
+    "concept": "Reinterpreting regional culture"
+  },
+  {
+    "id": "sealink",
+    "title": "SeaLink",
+    "en": "OCEAN-FRIENDLY REFILL TRAVEL KIT",
+    "category": "visual",
+    "type": "Product design",
+    "bg": "#e4edf0",
+    "className": "wide-work",
+    "images": [
+      "sealink"
+    ],
+    "role": "Team project · Product design · A more sustainable way to travel",
+    "description": "SeaLink is an ocean-friendly refillable toiletry kit for travel. Reusable modular silicone bottles respond to the plastic waste associated with disposable travel products, while addressing portability, leakage, and flexible combinations of everyday essentials.",
+    "extra": "Marine illustrations connect separate bottles into a complete image. Snap-on modules, wide refill openings, and precision nozzles address the stages of packing, refilling, and use. A companion comic booklet extends the product's environmental message through a story about marine plastic pollution.",
+    "note": "Team project. Siya Wang is the first-listed author.",
+    "authorship": "Team project",
+    "concept": "A more sustainable way to travel"
+  },
+  {
+    "id": "poetry",
+    "title": "Poetry into Form",
+    "en": "TYPOGRAPHIC POETRY",
+    "category": "visual",
+    "type": "Typographic posters",
+    "bg": "#e8e8e5",
+    "className": "series-work",
+    "images": [
+      "poem-1",
+      "poem-2",
+      "poem-3"
+    ],
+    "role": "Individual project · Typographic posters · Giving language a visual rhythm",
+    "description": "A typographic exploration of how Chinese characters can communicate beyond their literal meaning. Scale, density, repetition, direction, and negative space turn words into a moon, flowing water, crowds, and an outpouring of emotion. The compositions translate the rhythm and feeling of reading into visual form.",
+    "note": "The poems were written by another author. Siya Wang created the visual interpretation, typography, layout, and graphic compositions.",
+    "authorship": "Individual project",
+    "concept": "Giving language a visual rhythm"
+  },
+  {
+    "id": "sonic-archives",
+    "title": "Sonic Archives of Chaoyang Healthcare",
+    "en": "SONIC ARCHIVES OF CHAOYANG HEALTHCARE",
+    "category": "digital",
+    "type": "Data visualization",
+    "bg": "#f1e8ee",
+    "className": "wide-work",
+    "images": [
+      "sonic-archives"
+    ],
+    "role": "Team project · Data visualization · Making hospital soundscapes visible",
+    "description": "Based on field recordings and research at five hospitals in Beijing's Chaoyang District, this project organizes the sounds of entrance halls, emergency infusion rooms, nurses' stations, and waiting areas into a sonic archive. Decibel readings, foot traffic, spatial information, and emotional experience become visual evidence of the healthcare environment.",
+    "extra": "Circular charts, heat maps, line graphs, and scatter plots compare hospitals and zones, bringing attention to an environmental pressure that is persistent yet easily overlooked.",
+    "authorship": "Team project",
+    "concept": "Making hospital soundscapes visible"
+  },
+  {
+    "id": "combat-crusher",
+    "title": "Combat Crusher",
+    "en": "COMBAT CRUSHER",
+    "category": "3d",
+    "type": "3D environment art",
+    "bg": "#d9dcdd",
+    "className": "wide-work",
+    "images": [
+      "combat-crusher"
+    ],
+    "role": "Individual project · 3D environment art · Mechanical structure and hard surfaces",
+    "description": "A hard-surface modeling study of an armoured combat vehicle. The overall silhouette, three-view presentation, and close-up details explore the construction and hierarchy of tracks, the chassis, armour, and mounted mechanical components.",
+    "note": "A high-poly modeling presentation, including orthographic views and mechanical details.",
+    "authorship": "Individual project",
+    "concept": "Mechanical structure and hard surfaces"
+  },
+  {
+    "id": "wasteland-suv",
+    "title": "Wasteland Exploration SUV",
+    "en": "WASTELAND EXPLORATION SUV",
+    "category": "3d",
+    "type": "3D environment art",
+    "bg": "#141719",
+    "className": "wide-work uncropped-work",
+    "images": [
+      "suv-05",
+      "suv-02",
+      "suv-03"
+    ],
+    "role": "Individual project · 3D environment art · A vehicle shaped by use and wear",
+    "description": "A vehicle asset produced during my internship at Tencent Games. The SUV's structure, weathering, and material layers suggest a history of exploration in a worn environment. Multiple views reveal the vehicle's proportions, external fittings, and surface details.",
+    "note": "All three views show the same vehicle, captured in Unreal Engine.",
+    "authorship": "Individual project",
+    "concept": "A vehicle shaped by use and wear"
+  },
+  {
+    "id": "popmart",
+    "title": "Embrace Your Thorns",
+    "en": "POP MART · ZSIGA",
+    "category": "visual",
+    "type": "Illustrated posters",
+    "bg": "#eee9e0",
+    "className": "series-work",
+    "images": [
+      "popmart-1",
+      "popmart-2",
+      "popmart-3"
+    ],
+    "role": "Team project · Illustrated posters · Individuality, growth, and self-acceptance",
+    "description": "A hand-drawn poster series inspired by POP MART's Zsiga, combining illustrated characters with photographs of campus life. Cherry blossoms, a running track, and a bicycle connect everyday scenes to three themes: dreams and romance, growth and resilience, and the freedom to start again.",
+    "note": "A creative study featuring an existing brand character. The original character designs belong to their respective rights holders.",
+    "authorship": "Team project",
+    "concept": "Individuality, growth, and self-acceptance"
+  },
+  {
+    "id": "care",
+    "title": "See Her, Free and Strong",
+    "en": "PUBLIC WELFARE POSTER DESIGN",
+    "category": "visual",
+    "type": "Public-interest posters",
+    "bg": "#eee5e5",
+    "className": "series-work",
+    "images": [
+      "care-1",
+      "care-2",
+      "care-3"
+    ],
+    "role": "Individual project · Public-interest posters · Recognizing women through menopause",
+    "description": "A public-interest poster series focused on care and respect for women experiencing menopause. Everyday portraits meet hand-painted lettering, doodles, and expressive colours to address stereotypes, bodily change, and the contributions that often go unrecognized.",
+    "extra": "Three complementary messages—challenging the stigma of being a middle-aged woman, moving forward, and recognizing the need for love—invite understanding, respect, and support.",
+    "authorship": "Individual project",
+    "concept": "Recognizing women through menopause"
+  },
+  {
+    "id": "editorial",
+    "title": "Content with a Voice",
+    "en": "EDITORIAL & SOCIAL CONTENT",
+    "category": "digital",
+    "type": "Editorial & social design",
+    "bg": "#e3e9e5",
+    "className": "wide-work",
+    "images": [
+      "social-headers",
+      "social-profile",
+      "social-dschool"
+    ],
+    "role": "Individual project · Editorial & social design · Building identity through image and text",
+    "description": "Visual and editorial work for the Communication University of China Student Union and design-thinking-related WeChat accounts. The work includes event headers, personality features, course showcases, and admissions information. Across different topics, image and text are organized into clear hierarchies that support recognition and communication.",
+    "authorship": "Individual project",
+    "concept": "Building identity through image and text"
+  },
+  {
+    "id": "barrel",
+    "title": "Wooden Barrel",
+    "en": "WOODEN BARREL · FULL PIPELINE",
+    "category": "3d",
+    "type": "3D environment art",
+    "bg": "#e4ded2",
+    "className": "wide-work",
+    "images": [
+      "barrel"
+    ],
+    "role": "Individual project · 3D environment art · Exploring wood and metal materials",
+    "description": "One of my earliest full-pipeline environment-prop studies. From the base forms to wood grain, metal bands, and surface wear, this project developed my understanding of modeling, sculpting, texture baking, material creation, and final presentation.",
+    "authorship": "Individual project",
+    "concept": "Exploring wood and metal materials"
+  },
+  {
+    "id": "jinx",
+    "title": "Bomb Maniac · Jinx",
+    "en": "3D CHARACTER MODELING",
+    "category": "3d",
+    "type": "3D character art",
+    "bg": "#e7ded0",
+    "className": "wide-work",
+    "images": [
+      "jinx"
+    ],
+    "role": "Individual project · 3D character art · From a character image to 3D form",
+    "description": "An early 3D character study of Jinx, exploring the translation of a two-dimensional character into three-dimensional form through silhouette, proportions, costume, and prop details.",
+    "note": "A modeling exercise based on an existing character. Jinx and the original character design © Riot Games.",
+    "authorship": "Individual project",
+    "concept": "From a character image to 3D form"
+  },
+  {
+    "id": "demon",
+    "title": "Demon Enchantress",
+    "en": "3D CHARACTER MODELING",
+    "category": "3d",
+    "type": "3D character art",
+    "bg": "#101521",
+    "className": "portrait-work uncropped-work",
+    "images": [
+      "demon"
+    ],
+    "role": "Individual project · 3D character art · Character form, materials, and light",
+    "description": "An early 3D character modeling study focused on the relationships between horns, hair, facial features, and accessories. The work explores character form, surface materials, and lighting for presentation.",
+    "note": "A character modeling exercise developed from an original-art reference.",
+    "authorship": "Individual project",
+    "concept": "Character form, materials, and light"
+  },
+  {
+    "id": "vehicle-tricycle",
+    "title": "Weathered Three-Wheeler",
+    "en": "VEHICLE MODELING STUDY",
+    "category": "3d",
+    "type": "3D environment art",
+    "bg": "#dfe3dd",
+    "className": "wide-work",
+    "images": [
+      "vehicle-tricycle"
+    ],
+    "role": "Individual project · 3D environment art · The material traces of everyday use",
+    "description": "A vehicle study centred on the cab of an old three-wheeler. Broken glass, corroded paint, and worn surfaces express the effects of prolonged use. Three viewing angles reveal the relationship between the vehicle's structure and its material details.",
+    "authorship": "Individual project",
+    "concept": "The material traces of everyday use"
+  }
+]

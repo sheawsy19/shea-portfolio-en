@@ -1,0 +1,42 @@
+@font-face{font-family:Inter;src:url('assets/fonts/Inter-latin.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap}
+@font-face{font-family:'Inter Tight';src:url('assets/fonts/InterTight-latin.woff2') format('woff2');font-style:normal;font-weight:100 900;font-display:swap}
+:root{font-family:Inter,'Helvetica Neue',Arial,sans-serif;font-optical-sizing:auto;font-feature-settings:'cv11','ss01','calt'}
+body,button,input{font-family:Inter,'Helvetica Neue',Arial,sans-serif}
+body{letter-spacing:-.008em}
+h1,h2,h3,.about-lead,.hero-intro p,.marquee-unit{font-family:'Inter Tight',Inter,Arial,sans-serif;font-optical-sizing:auto}
+h2,h3{font-weight:450}
+.hero h1{font-family:'Inter Tight',Inter,Arial,sans-serif;font-size:21.3vw;letter-spacing:-.055em;font-weight:400}
+.hero-intro{width:310px}.hero-intro p,.hero-intro p span{font-size:33px;line-height:1.14;letter-spacing:-.015em}.hero-intro small{font-family:Inter,Arial,sans-serif;font-size:16px;line-height:1.5;letter-spacing:.025em}
+.brand{letter-spacing:-.015em;min-width:0}.brand-name{letter-spacing:0}.brand-label{white-space:nowrap}.desktop-nav>a>span{display:none}.menu-toggle{flex:0 0 auto;white-space:nowrap;min-width:82px;gap:12px}.menu-toggle span{white-space:nowrap;overflow-wrap:normal}
+.intro h2{font-size:clamp(39px,4.7vw,72px);line-height:1.12;letter-spacing:-.035em;max-width:850px;text-wrap:balance}
+.intro-copy p{line-height:1.75}.circle-link{font-size:17px}
+.work h2,.awards-heading h2,.about-heading h2{letter-spacing:-.04em;line-height:1.1}
+.work h2{font-size:clamp(39px,4.8vw,72px)}.work-toolbar{align-items:flex-start}.filters{gap:8px}.filters button{font-size:16px;padding:12px 18px}.work-hint{padding-top:14px}
+.project-caption h3{font-size:clamp(25px,2.3vw,34px);line-height:1.14;letter-spacing:-.022em;text-wrap:balance}.project-role{font-size:16px;line-height:1.65;letter-spacing:0}
+.image-index{font-size:16px;letter-spacing:.01em}.sup{font-family:Inter,Arial,sans-serif;letter-spacing:-.03em}
+.about-heading{align-items:flex-start}.about-lead{font-size:clamp(31px,3.4vw,49px);line-height:1.12;letter-spacing:-.025em}.about-body{line-height:1.75}
+.education h3{font-size:30px;line-height:1.16;letter-spacing:-.02em}.education p{line-height:1.7}.education-honors{line-height:1.7}.personal-meta{font-size:16px;line-height:1.6}
+.subsection-title h3,.experience-title h3{font-size:clamp(32px,3.5vw,51px);line-height:1.1;letter-spacing:-.03em;text-wrap:balance}
+.strength-card h4{font-family:'Inter Tight',Inter,Arial,sans-serif;font-size:24px;line-height:1.18;letter-spacing:-.015em}.strength-card p{line-height:1.75}
+.experience-name b{font-family:'Inter Tight',Inter,Arial,sans-serif;font-size:29px;line-height:1.16}.experience-name small{line-height:1.5}.experience-list ul{line-height:1.75}.experience-date{font-size:16px;white-space:nowrap}
+.operations-content p,.skill-row p,.cv-grid li{line-height:1.75}.operation-stats span{font-size:16px}.operation-stats b{font-family:'Inter Tight',Inter,Arial,sans-serif;letter-spacing:-.04em}
+.skill-row h4{font-size:18px;line-height:1.35;letter-spacing:-.015em}.skill-row{grid-template-columns:145px minmax(0,1fr)}
+.award-name{font-size:23px;line-height:1.2;letter-spacing:-.02em}.award-name small,.award-level small{line-height:1.5;letter-spacing:0;font-size:16px}.award-level{font-size:18px;line-height:1.3;white-space:normal}
+.awards-heading h2{max-width:650px}.awards-heading p{max-width:320px;line-height:1.7}
+.contact-title-row h2{font-size:clamp(46px,6.4vw,96px);line-height:1.08;letter-spacing:-.045em;text-wrap:balance}.contact-circle{font-size:16px}
+.dialog-content h2{font-size:clamp(38px,5.6vw,80px);line-height:1.08;letter-spacing:-.025em;text-wrap:balance}.project-prose{line-height:1.8;max-width:880px}.authorship-note{line-height:1.7}.project-facts{line-height:1.5}.gallery-topline{gap:24px}.dialog-end p{line-height:1.5}.next-project{white-space:nowrap}
+.language-link{font-size:14px;letter-spacing:.06em;opacity:.8}.language-link:hover{opacity:1}
+@media(max-width:1150px){.hero-intro{width:270px}.hero-intro p,.hero-intro p span{font-size:29px}.experience-date{white-space:normal}.awards-heading h2{max-width:520px}}
+@media(max-width:760px){
+ .brand-label{font-size:16px}.brand-alias,.brand-label i{display:none}.brand{gap:10px}.hero-intro{width:80%;top:auto;right:auto;left:6%;bottom:225px}.hero-intro p,.hero-intro p span{font-size:32px;line-height:1.1}.hero-intro small{font-size:16px;max-width:315px;margin-top:15px;letter-spacing:0}
+ .hero-arrow{margin-bottom:17px}.hero-topline{font-size:16px}.hero-bottom{font-size:16px}.hero h1{font-size:24vw}
+ .intro h2{font-size:43px;max-width:100%;line-height:1.08}.intro-copy{font-size:18px;line-height:1.75}.work-heading{align-items:flex-start}.work h2{font-size:43px}.sup{font-size:17px;margin-left:9px}
+ .filters button{font-size:16px;padding:11px 14px}.work-hint{display:none}.project-caption h3{font-size:28px}.project-role{font-size:16px}
+ .about-heading h2{font-size:48px}.subsection-title h3,.experience-title h3{font-size:39px}.about-lead{font-size:36px}.about-body{font-size:18px}
+ .edu-stats{flex-wrap:wrap;gap:18px}.education h3{font-size:29px}.experience-name b{font-size:26px}.experience-name small{font-size:16px}.experience-list summary{gap:14px}.experience-date{font-size:15px}
+ .skill-row{grid-template-columns:1fr;gap:9px}.skill-row h4{font-size:20px}.award-name{font-size:21px}.award-level{font-size:17px}.award-list button{column-gap:12px}.award-name small{font-size:15px}
+ .awards-heading h2{font-size:45px}.awards-heading p{font-size:18px}.contact-title-row h2{font-size:48px}.contact-title-row h2 img{width:55px;height:55px}
+ .dialog-content h2{font-size:39px}.dialog-subtitle{overflow-wrap:anywhere}.gallery-topline{font-size:14px;line-height:1.5}.dialog-images figcaption{font-size:14px}.work-end{font-size:17px;line-height:1.6}
+ .list-view .project-caption h3{font-size:24px}.list-view .project-role{font-size:15px}.language-link{display:none}
+}
+@media(max-width:390px){.hero-intro p,.hero-intro p span{font-size:30px}.intro h2{font-size:38px}.work h2{font-size:37px}.contact-title-row h2{font-size:44px}.project-caption h3{font-size:26px}.filters button{padding:11px 12px}.award-name{font-size:19px}}
